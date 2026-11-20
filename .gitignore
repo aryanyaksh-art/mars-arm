@@ -1,0 +1,9 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+firmware_host/build/
+calibration.json
+*.blend1
+# Private: who was emailed about parts, and the tracker. Not part of the project.
+OUTREACH.md
+outreach/

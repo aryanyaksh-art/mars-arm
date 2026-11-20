@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="279.4mm" height="215.9mm" viewBox="0 0 279.4 215.9" font-family="Arial" font-size="3.5">
+<g fill="none" stroke="black" stroke-width="0.3">
+<circle cx="90.0" cy="180.9" r="30"/>
+<path d="M84.0 180.9 h12 M90.0 174.9 v12"/>
+<path d="M55.0 135.9 h70" stroke-dasharray="2 1"/>
+<text x="57.0" y="134.4" fill="black" stroke="none">front edge of base flange</text>
+<text x="81.0" y="193.9" fill="black" stroke="none">ARM BASE</text>
+<rect x="30.0" y="40.900000000000006" width="100.0" height="50.0" stroke-dasharray="3 1.5"/>
+<text x="31.0" y="95.4" fill="black" stroke="none">PICK AREA  x 90 to 140  y -40 to 60 mm</text>
+<circle cx="230.0" cy="130.9" r="32"/>
+<text x="219.0" y="131.9" fill="black" stroke="none">SAMPLE BIN</text>
+<path d="M38.0 25.900000000000006 h8 M42.0 21.900000000000006 v8" stroke-width="0.4"/>
+<text x="43.5" y="24.4" fill="black" stroke="none" font-size="3">A</text>
+<path d="M142.0 25.900000000000006 h8 M146.0 21.900000000000006 v8" stroke-width="0.4"/>
+<text x="147.5" y="24.4" fill="black" stroke="none" font-size="3">B</text>
+<path d="M142.0 105.9 h8 M146.0 101.9 v8" stroke-width="0.4"/>
+<text x="147.5" y="104.4" fill="black" stroke="none" font-size="3">C</text>
+<path d="M38.0 105.9 h8 M42.0 101.9 v8" stroke-width="0.4"/>
+<text x="43.5" y="104.4" fill="black" stroke="none" font-size="3">D</text>
+<path d="M30.0 202.9 h100 M30.0 200.9 v4 M130.0 200.9 v4"/>
+<text x="32.0" y="199.9" fill="black" stroke="none">This line must measure 100 mm. If not, print again at 100% / actual size.</text>
+<text x="32.0" y="209.9" fill="black" stroke="none">Keep the six square markers uncovered and flat: the camera finds the table with them.</text>
+<rect x="253.50" y="192.40" width="17.0" height="17.0" stroke-dasharray="1.2 0.8" stroke-width="0.2"/>
+<text x="149.5" y="199.4" fill="black" stroke="none" font-size="3">ARM TAG: cut out along the dashes, stick on the arm (see README)</text>
+</g>
+<g fill="black" stroke="none" shape-rendering="crispEdges">
+<rect x="8.000" y="15.900" width="20.000" height="3.353"/>
+<rect x="8.000" y="19.233" width="3.333" height="3.353"/>
+<rect x="14.667" y="19.233" width="3.333" height="3.353"/>
+<rect x="24.667" y="19.233" width="3.333" height="3.353"/>
+<rect x="8.000" y="22.567" width="6.667" height="3.353"/>
+<rect x="18.000" y="22.567" width="3.333" height="3.353"/>
+<rect x="24.667" y="22.567" width="3.333" height="3.353"/>
+<rect x="8.000" y="25.900" width="10.000" height="3.353"/>
+<rect x="24.667" y="25.900" width="3.333" height="3.353"/>
+<rect x="8.000" y="29.233" width="10.000" height="3.353"/>
+<rect x="21.333" y="29.233" width="6.667" height="3.353"/>
+<rect x="8.000" y="32.567" width="20.000" height="3.353"/>
+<text x="8.0" y="39.4" fill="black" stroke="none" font-size="2.5">0</text>
+<rect x="160.000" y="15.900" width="20.000" height="3.353"/>
+<rect x="160.000" y="19.233" width="20.000" height="3.353"/>
+<rect x="160.000" y="22.567" width="3.333" height="3.353"/>
+<rect x="176.667" y="22.567" width="3.333" height="3.353"/>
+<rect x="160.000" y="25.900" width="3.333" height="3.353"/>
+<rect x="166.667" y="25.900" width="6.667" height="3.353"/>
+<rect x="176.667" y="25.900" width="3.333" height="3.353"/>
+<rect x="160.000" y="29.233" width="3.333" height="3.353"/>
+<rect x="166.667" y="29.233" width="3.333" height="3.353"/>
+<rect x="173.333" y="29.233" width="6.667" height="3.353"/>
+<rect x="160.000" y="32.567" width="20.000" height="3.353"/>
+<text x="160.0" y="39.4" fill="black" stroke="none" font-size="2.5">1</text>
+<rect x="160.000" y="95.900" width="20.000" height="3.353"/>
+<rect x="160.000" y="99.233" width="10.000" height="3.353"/>
+<rect x="176.667" y="99.233" width="3.333" height="3.353"/>
+<rect x="160.000" y="102.567" width="10.000" height="3.353"/>
+<rect x="176.667" y="102.567" width="3.333" height="3.353"/>
+<rect x="160.000" y="105.900" width="10.000" height="3.353"/>
+<rect x="173.333" y="105.900" width="6.667" height="3.353"/>
+<rect x="160.000" y="109.233" width="3.333" height="3.353"/>
+<rect x="170.000" y="109.233" width="3.333" height="3.353"/>
+<rect x="176.667" y="109.233" width="3.333" height="3.353"/>
+<rect x="160.000" y="112.567" width="20.000" height="3.353"/>
+<text x="160.0" y="119.4" fill="black" stroke="none" font-size="2.5">2</text>
+<rect x="8.000" y="95.900" width="20.000" height="3.353"/>
+<rect x="8.000" y="99.233" width="3.333" height="3.353"/>
+<rect x="14.667" y="99.233" width="6.667" height="3.353"/>
+<rect x="24.667" y="99.233" width="3.333" height="3.353"/>
+<rect x="8.000" y="102.567" width="3.333" height="3.353"/>
+<rect x="14.667" y="102.567" width="6.667" height="3.353"/>
+<rect x="24.667" y="102.567" width="3.333" height="3.353"/>
+<rect x="8.000" y="105.900" width="6.667" height="3.353"/>
+<rect x="18.000" y="105.900" width="10.000" height="3.353"/>
+<rect x="8.000" y="109.233" width="6.667" height="3.353"/>
+<rect x="21.333" y="109.233" width="6.667" height="3.353"/>
+<rect x="8.000" y="112.567" width="20.000" height="3.353"/>
+<text x="8.0" y="119.4" fill="black" stroke="none" font-size="2.5">3</text>
+<rect x="8.000" y="55.900" width="20.000" height="3.353"/>
+<rect x="8.000" y="59.233" width="6.667" height="3.353"/>
+<rect x="18.000" y="59.233" width="3.333" height="3.353"/>
+<rect x="24.667" y="59.233" width="3.333" height="3.353"/>
+<rect x="8.000" y="62.567" width="6.667" height="3.353"/>
+<rect x="18.000" y="62.567" width="10.000" height="3.353"/>
+<rect x="8.000" y="65.900" width="3.333" height="3.353"/>
+<rect x="14.667" y="65.900" width="6.667" height="3.353"/>
+<rect x="24.667" y="65.900" width="3.333" height="3.353"/>
+<rect x="8.000" y="69.233" width="3.333" height="3.353"/>
+<rect x="21.333" y="69.233" width="6.667" height="3.353"/>
+<rect x="8.000" y="72.567" width="20.000" height="3.353"/>
+<text x="8.0" y="79.4" fill="black" stroke="none" font-size="2.5">4</text>
+<rect x="160.000" y="55.900" width="20.000" height="3.353"/>
+<rect x="160.000" y="59.233" width="6.667" height="3.353"/>
+<rect x="176.667" y="59.233" width="3.333" height="3.353"/>
+<rect x="160.000" y="62.567" width="3.333" height="3.353"/>
+<rect x="166.667" y="62.567" width="6.667" height="3.353"/>
+<rect x="176.667" y="62.567" width="3.333" height="3.353"/>
+<rect x="160.000" y="65.900" width="3.333" height="3.353"/>
+<rect x="170.000" y="65.900" width="10.000" height="3.353"/>
+<rect x="160.000" y="69.233" width="3.333" height="3.353"/>
+<rect x="170.000" y="69.233" width="3.333" height="3.353"/>
+<rect x="176.667" y="69.233" width="3.333" height="3.353"/>
+<rect x="160.000" y="72.567" width="20.000" height="3.353"/>
+<text x="160.0" y="79.4" fill="black" stroke="none" font-size="2.5">5</text>
+<rect x="255.500" y="194.400" width="13.000" height="2.187"/>
+<rect x="255.500" y="196.567" width="2.167" height="2.187"/>
+<rect x="259.833" y="196.567" width="4.333" height="2.187"/>
+<rect x="266.333" y="196.567" width="2.167" height="2.187"/>
+<rect x="255.500" y="198.733" width="2.167" height="2.187"/>
+<rect x="264.167" y="198.733" width="4.333" height="2.187"/>
+<rect x="255.500" y="200.900" width="6.500" height="2.187"/>
+<rect x="264.167" y="200.900" width="4.333" height="2.187"/>
+<rect x="255.500" y="203.067" width="2.167" height="2.187"/>
+<rect x="264.167" y="203.067" width="4.333" height="2.187"/>
+<rect x="255.500" y="205.233" width="13.000" height="2.187"/>
+</g></svg>

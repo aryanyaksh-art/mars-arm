@@ -1,0 +1,58 @@
+GEOMETRY for firmware: L1=80.0 L2=85.0 BASE_H=46.2 GRIP_Y=-16.5
+PART base: 100.0 x 70.0 x 34.2 mm, 73.8 cm3, non-manifold edges: 0
+PART turret: 58.0 x 38.0 x 17.8 mm, 10.5 cm3, non-manifold edges: 0
+PART upper_arm: 103.5 x 21.0 x 5.0 mm, 8.8 cm3, non-manifold edges: 0
+PART forearm: 103.0 x 28.3 x 50.5 mm, 11.4 cm3, non-manifold edges: 0
+PART finger: 52.0 x 14.0 x 5.0 mm, 2.2 cm3, non-manifold edges: 0
+PART fit_test: 46.0 x 38.0 x 5.0 mm, 7.0 cm3, non-manifold edges: 0
+PART mast_foot: 140.0 x 90.0 x 50.9 mm, 121.2 cm3, non-manifold edges: 0
+PART camera_boom: 210.5 x 50.0 x 45.0 mm, 58.7 cm3, non-manifold edges: 0
+PART sample_bin: 90.0 x 90.0 x 45.0 mm, 27.0 cm3, non-manifold edges: 0
+PART rock_sample: 26.1 x 25.9 x 20.3 mm, 7.6 cm3, non-manifold edges: 0
+Info: File exported successfully
+Info: File exported successfully
+Info: File exported successfully
+Info: File exported successfully
+Info: File exported successfully
+Info: File exported successfully
+Info: File exported successfully
+Info: File exported successfully
+Info: File exported successfully
+Info: File exported successfully
+POSE home: lowest point 35.7 mm above table, collisions: none
+POSE x=120 y=20 z=45 finger=30: lowest point 33.8 mm above table, collisions: none
+POSE x=120 y=20 z=14 finger=30: lowest point 2.4 mm above table, collisions: none
+POSE x=120 y=20 z=14 finger=0: lowest point 2.4 mm above table, collisions: none
+POSE x=120 y=20 z=75 finger=0: lowest point 35.7 mm above table, collisions: none
+POSE x=90 y=0 z=45 finger=30: lowest point 33.4 mm above table, collisions: none
+POSE x=90 y=0 z=14 finger=30: lowest point 2.7 mm above table, collisions: none
+POSE x=90 y=0 z=14 finger=0: lowest point 2.7 mm above table, collisions: none
+POSE x=90 y=0 z=75 finger=0: lowest point 35.7 mm above table, collisions: none
+POSE x=90 y=60 z=45 finger=30: lowest point 33.5 mm above table, collisions: none
+POSE x=90 y=60 z=14 finger=30: lowest point 2.4 mm above table, collisions: none
+POSE x=90 y=60 z=14 finger=0: lowest point 2.4 mm above table, collisions: none
+POSE x=90 y=60 z=75 finger=0: lowest point 35.7 mm above table, collisions: none
+POSE x=90 y=-40 z=45 finger=30: lowest point 33.4 mm above table, collisions: none
+POSE x=90 y=-40 z=14 finger=30: lowest point 2.5 mm above table, collisions: none
+POSE x=90 y=-40 z=14 finger=0: lowest point 2.5 mm above table, collisions: none
+POSE x=90 y=-40 z=75 finger=0: lowest point 35.7 mm above table, collisions: none
+POSE x=140 y=60 z=45 finger=30: lowest point 35.6 mm above table, collisions: none
+POSE x=140 y=60 z=14 finger=30: lowest point 3.6 mm above table, collisions: none
+POSE x=140 y=60 z=14 finger=0: lowest point 3.6 mm above table, collisions: none
+POSE x=140 y=60 z=75 finger=0: lowest point 35.7 mm above table, collisions: none
+POSE x=140 y=-40 z=45 finger=30: lowest point 35.0 mm above table, collisions: none
+POSE x=140 y=-40 z=14 finger=30: lowest point 3.1 mm above table, collisions: none
+POSE x=140 y=-40 z=14 finger=0: lowest point 3.1 mm above table, collisions: none
+POSE x=140 y=-40 z=75 finger=0: lowest point 35.7 mm above table, collisions: none
+POSE x=140 y=0 z=45 finger=30: lowest point 34.6 mm above table, collisions: none
+POSE x=140 y=0 z=14 finger=30: lowest point 2.8 mm above table, collisions: none
+POSE x=140 y=0 z=14 finger=0: lowest point 2.8 mm above table, collisions: none
+POSE x=140 y=0 z=75 finger=0: lowest point 35.7 mm above table, collisions: none
+POSE x=115 y=-40 z=45 finger=30: lowest point 33.9 mm above table, collisions: none
+POSE x=115 y=-40 z=14 finger=30: lowest point 2.4 mm above table, collisions: none
+POSE x=115 y=-40 z=14 finger=0: lowest point 2.4 mm above table, collisions: none
+POSE x=115 y=-40 z=75 finger=0: lowest point 35.7 mm above table, collisions: none
+POSE over bin finger=0: lowest point 35.7 mm above table, collisions: none
+POSE over bin finger=30: lowest point 35.7 mm above table, collisions: none
+Info: Saved as "mars_arm_workcell.blend"
+DONE non-manifold edges total: 0, pose problems: 0
