@@ -78,10 +78,12 @@ python run.py --headless 26 --auto --mars --record demo.mp4    # record a clip, 
 | <kbd>X</kbd> / <kbd>H</kbd> | Abort / home |
 | <kbd>R</kbd> <kbd>C</kbd> <kbd>K</kbd> <kbd>E</kbd> | Simulator: new rock, next camera problem, knock the camera, give the servos errors |
 
-The firmware also runs unchanged in [Wokwi](https://wokwi.com), the online
-Arduino simulator: paste `mars_arm/mars_arm.ino` and `mars_arm/diagram.json`
-into a new Uno project and add the Servo library. Type `P 120 20` in the serial
-monitor, or move the two sliders and press the green button.
+**The firmware in your browser, nothing to install:**
+[open the Wokwi project](https://wokwi.com/projects/480767536940891137) and press
+play. Type `P 120 20` in the serial monitor, or move the two sliders (the
+sample's position) and press the green PICK button. To rebuild it yourself, paste
+`mars_arm/mars_arm.ino` and `mars_arm/diagram.json` into a new Uno project and
+add the Servo library.
 
 `--real-firmware` and the firmware tests need `g++` (on Windows, inside WSL);
 without it those tests are skipped.
