@@ -168,7 +168,7 @@ python robustness.py            # the accuracy table above
 - **The printed mat.** Its markers are redrawn from the SVG and must be read
   back at the right table positions.
 
-## Status, honestly
+## Status
 
 | | |
 | --- | --- |
